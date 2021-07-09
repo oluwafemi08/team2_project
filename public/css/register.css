@@ -1,0 +1,75 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
+}
+
+input{width: 15%;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(236, 233, 233);
+    }
+
+ button{
+        width: 40%;
+        padding: 25px;
+        margin: 20px;
+        background-color: darkgrey;
+        border: none;
+        border-radius: 25px;
+    }
+
+        
+        
+        hr{
+            padding: 5px;
+            margin-right: 10px;
+        }
+
+        .button{
+            width: 100px;
+            background-color: darkgrey;
+            border: none;
+            border-radius: 25px;
+            text-align: center;
+            padding: 20px;
+            margin: 10px;
+        }
+
+        .logo{
+            width: 110px;
+            padding: 20px;
+            border: none;
+            border-radius: 3px;
+        }
+
+        button{
+            margin-left: 29em;
+            margin-top: 0.5em;
+        }
+
+        hr{
+        display: block;
+        margin-left: auto;
+        margin-right:auto;
+        width: 45%;
+        padding-left: 200px;
+        }
+
+        p{
+        text-align: center; 
+        padding-left: 35px;   
+        }
+
+        .signin{
+            background-color: whitesmoke;
+            border-style:  groove;
+            border-color: black;
+        } */

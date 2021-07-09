@@ -1,0 +1,340 @@
+/* register style starts here 
+
+====================================================================
+*/
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
+}
+
+input{width: 15%;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(236, 233, 233);
+    }
+
+ button{
+        width: 40%;
+        padding: 25px;
+        margin: 20px;
+        background-color: darkgrey;
+        border: none;
+        border-radius: 25px;
+    }
+
+        
+        
+        hr{
+            padding: 5px;
+            margin-right: 10px;
+        }
+
+        .button{
+            width: 100px;
+            background-color: darkgrey;
+            border: none;
+            border-radius: 25px;
+            text-align: center;
+            padding: 20px;
+            margin: 10px;
+        }
+
+        .logo{
+            width: 110px;
+            padding: 20px;
+            border: none;
+            border-radius: 3px;
+        }
+
+        button{
+            margin-left: 29em;
+            margin-top: 0.5em;
+        }
+
+        hr{
+        display: block;
+        margin-left: auto;
+        margin-right:auto;
+        width: 45%;
+        padding-left: 200px;
+        }
+
+        p{
+        text-align: center; 
+        padding-left: 35px;   
+        }
+
+        .signin{
+            background-color: whitesmoke;
+            border-style:  groove;
+            border-color: black;
+        }
+
+
+
+        /* REGIS style ENDS here 
+
+====================================================================
+*/
+
+
+/* LOGIN style STARTS here 
+
+====================================================================
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+.main{
+    background-color: darkgrey;
+    width: 180px;
+    padding: 20px;
+    border: 5px solid darkgrey;
+    margin-left:  50px;
+}
+
+form{
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    padding: 50px;
+    margin-left: 30em;
+
+}
+
+input{width: 80%;
+padding: 20px;
+margin: 20px;
+background-color: rgb(236, 233, 233);
+}
+
+button{
+    width: 80%;
+    padding: 25px;
+    margin: 20px;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 25px;
+}
+
+.tee{
+    display: flex;
+    justify-content: space-around;
+}
+
+h3{
+    margin-left: 3em;
+    margin-bottom: 2em;
+}
+
+input[type=text]{
+    font-size: 20px;
+}
+
+input[type=password]{
+    font-size: 20px;
+}
+
+p{
+    font-size: 1em;
+}
+
+
+
+
+
+/* LOGIN style ENDS here 
+
+====================================================================
+*/
+
+/* DASHBOARD style STARTS here 
+
+====================================================================
+*/
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin-left: 20em;
+    background-color: whitesmoke;
+}
+
+
+.container2{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    border: solid 2px black;
+}
+
+.item{
+    width: 500px;
+    height: 80px;
+    margin: 15px;
+    padding: 5px;
+    background-color: darkgrey;
+}
+
+.flex{
+    width: 40px;
+    height: 20px;
+    margin: 15px;
+    padding: 5px;
+    background-color: darkgrey;
+}
+.bri{
+    width: 150px;
+    height: 200px;
+    padding: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: darkgrey;
+    border-radius: 1em;
+
+}
+
+
+.tri{
+    width: 150px;
+    height: 300px;
+    padding: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: darkgrey;
+    border-radius: 1em;
+
+}
+
+.container1{
+margin-bottom: 35em;
+padding-left: 18em;
+padding-right: 14.5em;
+}
+
+.type1{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.type2{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.type8{
+    width: 80px;
+    height: 80px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.yyy{
+    background-color: darkgrey;
+    width: 8em;
+    height: 35px;
+    border: none;
+    border-radius: 5em;
+    padding-bottom: 7px;
+}
+
+.loo{
+    width: 60px;
+    height: 30px;
+    margin: 15px;
+    padding: 5px;
+    background-color: darkgrey;
+    }
+
+.obtain{
+    display: flex;
+    margin-top: 5em;
+    margin-bottom: 1em;
+}
+
+.type3{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+
+.type4{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+
+.type5{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.container3{
+    margin-right:35em;
+    margin-left: 1em;
+}
+
+button{
+    background-color: darkgrey;
+    width: 14em;
+    height: 40px;
+    border: none;
+    border-radius: 5em;
+}
+
+
+/* DASHBOARD style ENDS here 
+
+====================================================================
+*/

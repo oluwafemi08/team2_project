@@ -1,0 +1,156 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px;
+    margin-left: 20em;
+    background-color: whitesmoke;
+}
+
+
+.container2{
+    background-color: whitesmoke;
+    margin: 0 auto;
+    border: solid 2px black;
+}
+
+.item{
+    width: 500px;
+    height: 80px;
+    margin: 15px;
+    padding: 5px;
+    background-color: darkgrey;
+}
+
+.flex{
+    width: 40px;
+    height: 20px;
+    margin: 15px;
+    padding: 5px;
+    background-color: darkgrey;
+}
+.bri{
+    width: 150px;
+    height: 200px;
+    padding: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: darkgrey;
+    border-radius: 1em;
+
+}
+
+
+.tri{
+    width: 150px;
+    height: 300px;
+    padding: 30px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: darkgrey;
+    border-radius: 1em;
+
+}
+
+.container1{
+margin-bottom: 35em;
+padding-left: 18em;
+padding-right: 14.5em;
+}
+
+.type1{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.type2{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.type8{
+    width: 80px;
+    height: 80px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.yyy{
+    background-color: darkgrey;
+    width: 8em;
+    height: 35px;
+    border: none;
+    border-radius: 5em;
+    padding-bottom: 7px;
+}
+
+.loo{
+    width: 60px;
+    height: 30px;
+    margin: 15px;
+    padding: 5px;
+    background-color: darkgrey;
+    }
+
+.obtain{
+    display: flex;
+    margin-top: 5em;
+    margin-bottom: 1em;
+}
+
+.type3{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+
+.type4{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+
+.type5{
+    width: 100px;
+    height: 100px;
+    background: darkgrey;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.container3{
+    margin-right:35em;
+    margin-left: 1em;
+}
+
+button{
+    background-color: darkgrey;
+    width: 14em;
+    height: 40px;
+    border: none;
+    border-radius: 5em;
+}
